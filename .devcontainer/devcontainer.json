@@ -10,6 +10,7 @@
     //  "memory": "8gb",
     //  "storage": "32gb"
    //},
+    
     //"updateContentCommand": "cd web/contatosweb/src/main/java/com/romulo/contatos/ ; ./gradew restart",
     "features": {
       "ghcr.io/devcontainers/features/java:1": {
